@@ -1,0 +1,6 @@
+langgraph
+langchain-groq
+docling
+python-dotenv
+pydantic
+langdetect
