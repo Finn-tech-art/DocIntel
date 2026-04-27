@@ -1,0 +1,25 @@
+# Secrets
+.env
+
+# Virtual Environment
+.venv/
+env/
+venv/
+ENV/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Data Files (Crucial: Prevents uploading large PDFs)
+*.pdf
+*.docx
+*.doc
+!The_Art_Of_War.pdf  # Exception: if you want to keep this one sample in git
+
+# Docling/HuggingFace Cache (Prevents local model weights from being tracked)
+.cache/
