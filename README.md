@@ -3,7 +3,7 @@
 
 An autonomous document intelligence agent built with **LangGraph** and **Groq**. This system is engineered to classify business documents into a 15-category taxonomy with a target precision of **85%+**.
 
-## 🧠 Core Methodology: The 7-Layer Prompting Strategy
+## Core Methodology: The 7-Layer Prompting Strategy
 To push the **Llama-3.1-8b** model toward production-grade accuracy, the Base Classifier node utilizes a 7-layer construction:
 
 1.  **Role**: Defined as a *Senior Data Triage Specialist* with 15+ years of experience.
